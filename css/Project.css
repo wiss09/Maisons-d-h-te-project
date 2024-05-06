@@ -1,0 +1,63 @@
+/* .container ul li{
+width: auto;
+border-radius: 5px;
+
+
+}
+.container ul li a{
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.product_description_area{
+    background-color: rgb(65, 61, 61);
+}
+.container{
+    border: none;
+} */
+
+table tbody td{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+    text-align: center;
+}
+table thead th{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+    text-align: center;
+}
+#form11{
+    background-color: #32383e;
+}
+.form11{
+    background-color: #32383e;
+}
+ul li{
+    transform: scale(1);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: large;
+}
+ul li :hover {
+    transform: scale(1.2);
+    color: orangered;
+}
+.dateBooking input{
+    border-radius: 5px;
+    color: grey;
+    border: 1px solid grey;
+}
+.dateBooking label{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.dateBooking input{
+    margin-top: 5px;
+    display: flex;
+}
+.list-unstyled menu li{
+    color: orangered;
+}
